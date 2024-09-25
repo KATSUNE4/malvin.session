@@ -69,7 +69,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/263780166288
+❸ || Owner = https://wa.me/2349071361371
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || Bot Repo = https://github.com/kingmalvn/RAVENS-MD
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
